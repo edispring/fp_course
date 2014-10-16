@@ -14,4 +14,4 @@ module Firststeps where
                        do print(Firststeps.prod xs)
                           do print(Firststeps.qsort xs)
                              do print(Firststeps.qsort [4,2,3,4,5,1,6,7])
-    main = test [1,2..5]
+
